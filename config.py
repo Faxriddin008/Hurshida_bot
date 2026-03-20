@@ -4,7 +4,7 @@ from aiogram.types import KeyboardButton
 
 # --- BOT VA ADMIN SOZLAMALARI ---
 # ⚠️ O'zgartirish shart:
-BOT_TOKEN = "8263702293:AAENv-nqHruK8zeHRJ3lmXhuzpIPcbo_OGg"
+BOT_TOKEN = "8263702293:AAENv-nqHruK8zeHRJ3lmXhuzpIPcbo_O"
 ADMIN_CHAT_ID = 1266438824 # NAMUNA: Admin guruh/kanal ID'sini kiriting
 
 
